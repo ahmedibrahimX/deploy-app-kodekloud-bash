@@ -1,0 +1,6 @@
+firewall,firewalld
+db,mariadb-server
+web,httpd
+web,php
+web,php-mysqlnd
+web,git
